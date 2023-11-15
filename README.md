@@ -50,7 +50,8 @@ Include your code here
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
+![image](https://github.com/Pintoponnachan/Ex02-Django-ORM-Web-Application/assets/131936892/205d6617-b298-4a7d-aeba-a6b7f91ee898)
+
 
 
 ## RESULT
