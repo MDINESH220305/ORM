@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 
+## Date: 17/03/24
 
 ## AIM
 To develop a Django application to store and retrieve data from a Football Players database using Object Relational Mapping(ORM).
@@ -49,7 +49,7 @@ Include your code here
 
 ## OUTPUT
 
-![image](https://github.com/Pintoponnachan/Ex02-Django-ORM-Web-Application/assets/131936892/205d6617-b298-4a7d-aeba-a6b7f91ee898)
+![Uploading web2.jpg…]()
 
 
 
